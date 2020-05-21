@@ -1,2 +1,3 @@
 # school-projects-r
-Portfolio of some R projects from CU Boulder
+This is a small portfolio of some R projects from CU Boulder.
+Specific details for each project can be found in their respective folders.
